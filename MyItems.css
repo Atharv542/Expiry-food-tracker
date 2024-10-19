@@ -1,0 +1,128 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+
+  .expiry-tracker-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+    text-align: center;
+    color: white;
+  }
+  
+  
+  .heading {
+    font-size: 2.5rem;
+    margin-bottom: 2.5rem;
+    color: white;
+  }
+
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
+  }
+  
+  
+  .input {
+    padding: 0.7rem;
+    font-size: 1rem;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    width: 250px;
+    text-align: center;
+  }
+  
+  
+  .add-button {
+    background-color: transparent;
+    color: white;
+    border: 2px solid #8B4513; 
+    padding: 0.7rem 1.5rem;
+    font-size: 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  
+  .add-button:hover {
+    background-color: #8B4513;
+    color: white;
+  }
+  
+  
+  .item-list {
+    width: 100%;
+    max-width: 600px;
+  }
+  
+ 
+  .item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    background-color: #333;
+    color: white;
+  }
+  
+  
+  .item-actions {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  
+  .about-to-expire {
+    border-color: #8B4513; 
+    color: #8B4513; 
+  }
+  
+ 
+  .remove-button {
+    background-color: transparent;
+    color: white;
+    border: 2px solid #8B4513; 
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+ 
+  .remove-button:hover {
+    background-color: #8B4513;
+    color: white;
+  }
+  
+  
+  .generate-recipe-button {
+    background-color: transparent;
+    color: white;
+    border: 2px solid #8B4513; 
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  
+  .generate-recipe-button:hover {
+    background-color: #8B4513;
+    color: white;
+  }
+    
+  
