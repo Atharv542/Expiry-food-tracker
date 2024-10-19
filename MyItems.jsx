@@ -47,7 +47,7 @@ const MyItems = () => {
 
   return (
     <div className="expiry-tracker-container">
-      <h2 className="heading">Expiry Date Tracker</h2>
+      <h2 className="heading">Item Tracker</h2>
 
       <div className="input-container">
         <input
