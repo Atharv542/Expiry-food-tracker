@@ -38,7 +38,7 @@ const AboutUs = () => {
           <h3>Deepanshu Sharma</h3>
           <h4>Lead Developer</h4>
           <p>
-            Deepanshu is the technical architect of the platform. As the Lead Developer, he brings our vision to life through clean, efficient, and user-friendly code. He ensures that the food tracking system operates smoothly and intuitively, making it easy for users to log, track, and manage their food items. With a deep commitment to functionality and user experience, Deepanshu's expertise is the foundation of our fight against food waste.
+            Deepanshu is the technical architect of the platform. As the Lead Developer, he brings our vision to life through clean, efficient, and user-friendly code. He ensures that the food tracking system operates smoothly and intuitively, making it easy for users to log, track, and manage their food items. With a deep commitment to functionality and user experience, Deepanshu's expertise is the foundation of our fight against food waste. His passion for datamakes him a crucial partof team.
           </p>
         </div>
 
